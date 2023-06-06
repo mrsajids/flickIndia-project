@@ -66,6 +66,9 @@
   height: 8.06rem;
   font-size: var(--font-size-base);
 }
+.registeryou{
+  margin-top: 4rem;
+}
 .grow-your-freelancing-career-w-parent {
   position: absolute;
   top: 1.5rem;
@@ -94,6 +97,7 @@
   height: 1rem;
 }
 .rectangle-parent2 {
+  cursor: pointer;
   top: 1.94rem;
   left: 42.75rem;
   height: 1.63rem;
@@ -134,6 +138,7 @@
   left: 0;
   border-radius: var(--br-11xl);
   background-color: var(--color-white);
+  padding-left: 0.5rem;
 }
 .email-address {
   position: absolute;
@@ -167,12 +172,15 @@
 .vector-parent1 {
   height: 35.21%;
   width: 36.65%;
-  top: 32.39%;
+  top: 33.9%;
   right: 1.2%;
   bottom: 32.39%;
-  left: 62.15%;
+  left: 66.15%;
   font-size: var(--font-size-sm);
   color: #4b4b4b;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 .be-in-touch {
   position: absolute;

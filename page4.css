@@ -72,6 +72,7 @@
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
+  margin-left: -2rem;
 }
 .group-child50 {
   position: absolute;
@@ -292,6 +293,7 @@
   box-sizing: border-box;
   width: 4.89rem;
   height: 1.63rem;
+  cursor: pointer;
 }
 .google {
   position: absolute;
@@ -325,6 +327,10 @@
   display: inline-block;
   width: 3.06rem;
   height: 1.06rem;
+}
+.rectangle-parent28,.rectangle-parent29,
+.rectangle-parent30,.rectangle-parent27{
+  cursor: pointer;
 }
 .rectangle-parent28 {
   position: absolute;
@@ -488,6 +494,9 @@
   color: var(--color-black);
   width: 5.88rem;
   height: 0.56rem;
+}
+.book-now,.book-now3{
+  cursor: pointer;
 }
 .group-child64 {
   position: absolute;
@@ -772,11 +781,12 @@
   left: 11.75rem;
   width: 27rem;
   height: 12.75rem;
+  cursor: pointer;
 }
 .group-child70 {
   position: absolute;
   top: 27.75rem;
-  left: 0;
+  left: 1.5rem;
   width: 49.5rem;
   height: 0.25rem;
 }

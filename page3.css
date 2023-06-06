@@ -5,6 +5,9 @@
   border: 0.2px solid var(--color-black);
   box-sizing: border-box;
 }
+.rectangle-wrapper{
+  cursor: pointer;
+}
 .group-child40,
 .rectangle-wrapper,
 .view-more-weddings {
@@ -71,6 +74,10 @@
   display: inline-block;
   width: 18.07rem;
   height: 3.37rem;
+}
+.rectangle-parent20,.group-child41,
+.group-child44{
+  cursor: pointer;
 }
 .rectangle-parent20 {
   position: absolute;
@@ -259,6 +266,7 @@
   left: 0;
   width: 51.99rem;
   height: 15.69rem;
+  cursor: pointer;
 }
 .danielle-ronnie-container3 {
   position: absolute;
@@ -378,7 +386,7 @@
 .wedding-photography-at {
   top: 1.16rem;
   font-size: 1.75rem;
-  width: 11.33rem;
+  width: 10.33rem;
   height: 7.37rem;
 }
 .featured-on-sep-15-202-parent {
@@ -415,13 +423,11 @@
 }
 .photography-expectations-vs-container {
   position: absolute;
-  top: 1.38rem;
-  left: 0.44rem;
-  line-height: 114%;
-  white-space: pre-wrap;
-  display: inline-block;
-  width: 8.63rem;
-  height: 7.38rem;
+    top: 1.38rem;
+    left: 0.44rem;
+    display: inline-block;
+    width: 8.63rem;
+    height: 7.38rem;
 }
 .featured-on-sep-container {
   position: absolute;
@@ -485,6 +491,7 @@
   display: inline-block;
   width: 12.53rem;
   height: 3.02rem;
+  cursor: pointer;
 }
 .fliqaindia-wedding-2-parent {
   position: absolute;
@@ -527,6 +534,7 @@
   display: inline-block;
   width: 12.53rem;
   height: 3.12rem;
+  cursor: pointer;
 }
 .fliqaindia-wedding-group {
   position: absolute;
@@ -575,6 +583,7 @@
   display: inline-block;
   width: 12.53rem;
   height: 2.4rem;
+  cursor: pointer;
 }
 .group-frame,
 .group-parent13 {
@@ -607,6 +616,9 @@
   color: var(--color-white);
   font-family: var(--font-actor);
 }
+.trending-now{
+  cursor: pointer;
+}
 .trending-now,
 .view-all {
   position: absolute;
@@ -619,6 +631,7 @@
   left: 50.94rem;
   font-size: var(--font-size-smi);
   font-weight: 600;
+  cursor: pointer;
 }
 .check-out-our,
 .our-blogs {

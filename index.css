@@ -1,3 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+.home,.portfolio,.community,.blog,.service{
+  color: white;
+  text-decoration: none;
+}
+
 .group-child,
 .group-item {
   position: absolute;
@@ -542,6 +550,7 @@
   right: 74.99%;
   bottom: 34%;
   left: 0;
+  
 }
 .group-icon26,
 .group-icon27,
@@ -1003,6 +1012,10 @@
   width: 54.88rem;
   height: 8.69rem;
   text-align: left;
+  cursor: pointer;
+}
+.group-child3{
+  padding: 0 1rem;
 }
 .group-child3,
 .group-child4 {
@@ -1035,14 +1048,15 @@
 .search1 {
   position: absolute;
   cursor: pointer;
-  top: 0;
-  left: 24.83rem;
+  text-align: center;
+  top: 0.1rem;
+  left: 24.5rem;
   font-size: var(--font-size-xl);
   font-family: var(--font-jost);
   color: var(--color-white);
   display: inline-block;
-  width: 4.75rem;
-  height: 1.56rem;
+  width: 5rem;
+  height: 1.8rem;
 }
 .rectangle-group {
   position: absolute;
